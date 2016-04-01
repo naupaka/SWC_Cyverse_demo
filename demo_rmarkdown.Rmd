@@ -17,8 +17,8 @@ When you click the **Knit** button a document will be generated that includes bo
 
 $2^2 + x$
 
-```{sh cars}
-ls
+```{r cars}
+summary(cars)
 ```
 
 ## Including Plots
